@@ -1,0 +1,21 @@
+body {
+  overflow-y: scroll;
+  line-height: 1.3em;
+  font-family: arial;
+  font-size: 0.9em;
+  background-color: white;
+  -webkit-font-smoothing: antialiased;
+}
+
+.info {
+  font-family: arial black;
+  margin-top: 25%;
+  color: white;
+  width: 440px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-kerning: normal;
+  font-size:4em;
+  background-color: black;
+}
