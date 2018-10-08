@@ -20,3 +20,12 @@ body {
   font-size: 4em;
   background-color: black;
 }
+
+a {
+  color: white;
+  text-decoration: none; /* no underline */
+  a:hover:
+}
+a:hover {
+    color: hotpink;
+}
