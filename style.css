@@ -1,31 +1,21 @@
 body {
-  overflow-y: scroll;
-  line-height: 1.3em;
-  font-family: arial;
-  font-size: 0.9em;
   background-color: white;
-  -webkit-font-smoothing: antialiased;
 }
 
 .info {
-  font-family: arial black;
-  margin-top: 25%;
+  font-family: arial;
+  font-size: 1.75em;
+  font-weight: 400;
   color: white;
-  width: 425px;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  font-kerning: normal;
-  letter-spacing: -0.03em;
-  font-size: 4em;
   background-color: black;
+  padding: 10px;
+  padding-right: 30px;
 }
 
-a {
-  color: white;
-  text-decoration: none; /* no underline */
-  a:hover:
-}
-a:hover {
-    color: hotpink;
+.box {
+  background-color: blue;
+  margin: -10px;
+  padding: -10px;
+  width: 105%;
+  height: 100%;
 }
